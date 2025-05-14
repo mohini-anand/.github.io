@@ -1,5 +1,5 @@
 # Mohini Anand
-* PhD Student, Purdue University *
+* PhD Student, Purdue University 
 
 ---
 
