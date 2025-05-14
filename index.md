@@ -1,5 +1,5 @@
 # Mohini Anand
-*PhD Student, Purdue University *
+* PhD Student, Purdue University *
 
 ---
 
@@ -27,5 +27,5 @@ Conditional GAN architecture with organ & lesion masks to synthesize realistic 3
 | – | *Two manuscripts in preparation* (fiber clustering journal; 2‑D cyst GAN) | — |
 
 ## Contact
-[Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=gjDiGX0AAAAJ&hl=en)) · [GitHub](https://github.com/mohini-anand) · anand130@purdue.edu
+[Google Scholar](https://scholar.google.com/citations?user=gjDiGX0AAAAJ&hl=en) · [GitHub](https://github.com/mohini-anand) · anand130@purdue.edu
 
