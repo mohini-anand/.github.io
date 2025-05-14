@@ -21,10 +21,13 @@ Conditional GAN architecture with organ & lesion masks to synthesize realistic 3
 - **Code:** coming soon · **Paper:** in prep.
 
 ## Publications & Manuscripts
+
+
 | Year | Title | Venue |
 |------|-------|-------|
 | 2025 | Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging | arXiv preprint |
 | – | *Two manuscripts in preparation* (fiber clustering journal; 2‑D cyst GAN) | — |
+
 
 ## Contact
 [Google Scholar](https://scholar.google.com/citations?user=gjDiGX0AAAAJ&hl=en) · [GitHub](https://github.com/mohini-anand) · anand130@purdue.edu
