@@ -1,5 +1,7 @@
 # Mohini Anand
-[Research](#research-interests) | [Projects](#projects) | [Publications](#publications) | [Impact](#research-impact) | [Skills](#technical-skills) | [Leadership](#leadership--service) | [Awards](#awards--recognition) | [Contact](#contact)
+[Projects](#projects) | [Publications](#publications-and-manuscripts) | [Contact](#contact)
+
+<!-- | [Impact](#research-impact) | [Skills](#technical-skills) | [Leadership](#leadership--service) | [Awards](#awards--recognition) -->
 
 ---
 
@@ -37,7 +39,7 @@ Conditional GAN architecture with organ & lesion masks to synthesize realistic 3
 - **Open data:** First large‑scale synthetic cyst MRI dataset to be released by July 2025.
 - **Code:** coming soon · **Paper:** in prep.
 
-## Publications & Manuscripts
+## Publications and Manuscripts
 
 
 | Year | Title | Venue |
