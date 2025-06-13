@@ -1,11 +1,27 @@
 # Mohini Anand
-* PhD Student, Purdue University 
-
+[Research](#research-interests) | [Projects](#projects) | [Publications](#publications) | [Impact](#research-impact) | [Skills](#technical-skills) | [Leadership](#leadership--service) | [Awards](#awards--recognition) | [Contact](#contact)
 ---
 
-## Research Interests
-Representation Learning · Cardiac Diffusion Tensor Imaging · Generative models for data‑scarce medical imaging · Responsible AI for health
+## About
+<table style="border: none; border-collapse: collapse; width: 100%;table-layout: fixed;">
+  <tr>
+    <td style="width: 250px; padding-right: 30px; border: none; vertical-align: top;">
+      <img src="images/profile_pic_1.jpg" alt="Mohini Anand" style="width: 250px; height: 220px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <h3 style="margin-top: 0;">PhD Student, Purdue University</h3>
+    <p><strong>Co-Advisors:</strong> Prof. Xavier Tricoche & Dr. Fiona Kolbinger<br>
+    <strong>Department:</strong> Computer Science<br>
+    <strong>Research Focus:</strong> Medical AI, Representation Learning, Generative Models, LLM agents</p>
+    </td>
+  </tr>
+</table>
+<p>I'm a third-year PhD student, developing AI systems that transform complex medical imaging into actionable clinical insights. My research bridges two critical challenges in medical AI: (1) creating interpretable deep learning algorithms for analyzing cardiac Diffusion Tensor Imaging data, and (2) synthesizing high-fidelity medical imaging data to address data scarcity in rare pathologies. Before starting my Ph.D., I earned my B.S. in Computer Science from NYU Tandon School of Engineering.</p>
 
+<p>My mission is to democratize access to expert medical diagnosis through robust computational tools that augment physician capabilities. This vision is deeply personal—growing up with physician parents, I witnessed firsthand the challenges of providing quality healthcare in resource-constrained environments. Their dedication inspired my commitment to developing AI systems that can scale medical expertise to underserved populations worldwide.
+I approach research with technical versatility, working across the full spectrum of modern AI—from representation learning and transformers to generative models and LLM-based agents—always expanding my skillset to match the complexity of medical challenges.</p>
+
+---
 ## Projects
 
 ### 1. Unsupervised Representation Learning for Whole‑Heart Fiber Clustering
