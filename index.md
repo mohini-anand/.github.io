@@ -44,7 +44,7 @@ I approach research with technical versatility, working across the full spectrum
     <p>Multi-modal generative framework for synthesizing realistic pancreatic cyst MRI data.
 Addresses critical data scarcity in rare pathologies with planned multi-phase open-source releases. </p>
     <p class="project-links">
-      <a href="./projects/pancreatic-cyst-synthesis">Full Details →</a>
+      <a href="./projects/pancreatic-cyst-synthesis.md">Full Details →</a>
     </p>
   </div>
 </div>
