@@ -31,7 +31,7 @@ I approach research with technical versatility, working across the full spectrum
 
 <div class="project-cards">
   <div class="project-card">
-    <h3><a href="./projects/cardiac-fiber-clustering">Unsupervised Representation Learning for Cardiac Fiber Analysis</a></h3>
+    <h3><a href="./projects/cardiac-fiber-clustering.md">Unsupervised Representation Learning for Cardiac Fiber Analysis</a></h3>
     <p>First-of-its-kind framework combining self-supervised embeddings with anatomical context to cluster >400k cardiac fibers. Enables quantitative studies of myocardial architecture at organ-scale.</p>
     <p class="project-links">
       <a href="https://arxiv.org/abs/2504.01953">arXiv</a> | 
