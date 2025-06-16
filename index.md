@@ -40,11 +40,11 @@ I approach research with technical versatility, working across the full spectrum
   </div>
   
   <div class="project-card">
-    <h3><a href="./projects/pancreatic-cyst-synthesis">Generative Frameworks for Synthesizing Pancreatic Cyst MRI</a></h3>
+    <h3><a href="./projects/pancreatic-cyst-synthesis.md">Generative Frameworks for Synthesizing Pancreatic Cyst MRI</a></h3>
     <p>Multi-modal generative framework for synthesizing realistic pancreatic cyst MRI data.
 Addresses critical data scarcity in rare pathologies with planned multi-phase open-source releases. </p>
     <p class="project-links">
-      <a href="./projects/pancreatic-cyst-synthesis.md">Full Details →</a>
+      <a href="./projects/pancreatic-cyst-synthesis">Full Details →</a>
     </p>
   </div>
 </div>
