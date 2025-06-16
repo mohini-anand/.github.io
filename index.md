@@ -1,5 +1,5 @@
 # Mohini Anand
-[Projects](#projects) | [Publications](#publications) | [Contact](#contact)
+[Projects](#featured-projects) | [Publications](#publications) | [Contact](#contact)
 
 <!-- | [Impact](#research-impact) | [Skills](#technical-skills) | [Leadership](#leadership--service) | [Awards](#awards--recognition) -->
 
