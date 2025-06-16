@@ -3,7 +3,7 @@ layout: project
 title: "Deep Learning for Cardiac Fiber Architecture Analysis"
 description: "Unsupervised clustering of myocardial fibers from DTI data using sequential and global representations"
 date: 2024-01-15
-image: /assets/images/cardiac-dti/cardiac-overview.png
+image: /images/cardiac-dti/cardiac-overview.png
 tags: [deep-learning, medical-imaging, cardiac-dti, unsupervised-learning]
 ---
 
