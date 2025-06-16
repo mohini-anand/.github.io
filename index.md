@@ -27,29 +27,39 @@
 I approach research with technical versatility, working across the full spectrum of modern AI—from representation learning and transformers to generative models and LLM-based agents—always expanding my skillset to match the complexity of medical challenges.</p>
 
 ---
-## Projects
+## Featured Projects
 
-### 1. Unsupervised Representation Learning for Whole‑Heart Fiber Clustering
-First-of-its-kind framework that combines self‑supervised embeddings with point‑wise anatomical context (Helical Angle, Transmural Depth) to cluster >400k cardiac fibers.
-- **Why it matters:** Enables quantitative studies of myocardial architecture at scale.
-- **Status:** Method complete; journal manuscript in preparation (target July 2025).  
-- **Preprint:** [[arXiv 2504.01953]](https://arxiv.org/abs/2504.01953)
+<div class="project-cards">
+  <div class="project-card">
+    <h3><a href="./projects/cardiac-fiber-clustering">Unsupervised Representation Learning for Cardiac Fiber Analysis</a></h3>
+    <p>First-of-its-kind framework combining self-supervised embeddings with anatomical context to cluster >400k cardiac fibers. Enables quantitative studies of myocardial architecture at organ-scale.</p>
+    <p class="project-links">
+      <a href="https://arxiv.org/abs/2504.01953">arXiv</a> | 
+      <a href="./projects/cardiac-fiber-clustering">Full Details →</a>
+    </p>
+  </div>
+  
+  <div class="project-card">
+    <h3><a href="./projects/pancreatic-cyst-synthesis">Generative Frameworks for Synthesizing Pancreatic Cyst MRI</a></h3>
+    <p>Multi-modal generative framework for synthesizing realistic pancreatic cyst MRI data.
+Addresses critical data scarcity in rare pathologies with planned multi-phase open-source releases. </p>
+    <p class="project-links">
+      <a href="./projects/pancreatic-cyst-synthesis">Full Details →</a>
+    </p>
+  </div>
+</div>
 
-### 2. Multi‑Mask 3D Generative Framework for Pancreatic Cysts
-Conditional GAN architecture with organ & lesion masks to synthesize realistic 3‑D MRI volumes of pancreatic cysts.
-- Automated lesion‑mask generation → controllable pathology placement.
-- **Open data:** First large‑scale synthetic cyst MRI dataset to be released by July 2025.
-- **Code:** coming soon · **Paper:** in prep.
-
-## Publications and Manuscripts
+## Publications 
 
 
-| Year | Title | Venue |
+| Year | Title | Links |
 |------|-------|-------|
-| 2025 | Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging | arXiv preprint |
-| – | *Two manuscripts in preparation* (fiber clustering journal; 2‑D cyst GAN) | — |
-
+| 2025 | Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories | [arXiv](https://arxiv.org/abs/2504.01953) |
+| 2025 | *Addressing Data Scarcity in Pancreatic Cyst Detection: A Mask-Conditional Generative Approach for MRI Synthesis* (in preparation) | — |
 
 ## Contact
-[Google Scholar](https://scholar.google.com/citations?user=gjDiGX0AAAAJ&hl=en) · [GitHub](https://github.com/mohini-anand) · anand130@purdue.edu
+<div class="contact-info">
 
+  📧 anand130@purdue.edu<br>
+  🔗 <a href="https://scholar.google.com/citations?user=gjDiGX0AAAAJ&hl=en">Google Scholar</a> · <a href="https://github.com/mohini-anand">GitHub</a> · <a href="https://www.linkedin.com/in/mohini-anand-a28708196">LinkedIn</a>
+</div>
