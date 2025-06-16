@@ -35,7 +35,7 @@ I approach research with technical versatility, working across the full spectrum
     <p>First-of-its-kind framework combining self-supervised embeddings with anatomical context to cluster >400k cardiac fibers. Enables quantitative studies of myocardial architecture at organ-scale.</p>
     <p class="project-links">
       <a href="https://arxiv.org/abs/2504.01953">arXiv</a> | 
-      <a href="./projects/cardiac-fiber-clustering">Full Details →</a>
+      <a href="./projects/cardiac-fiber-clustering.md">Full Details →</a>
     </p>
   </div>
   
@@ -44,7 +44,7 @@ I approach research with technical versatility, working across the full spectrum
     <p>Multi-modal generative framework for synthesizing realistic pancreatic cyst MRI data.
 Addresses critical data scarcity in rare pathologies with planned multi-phase open-source releases. </p>
     <p class="project-links">
-      <a href="./projects/pancreatic-cyst-synthesis">Full Details →</a>
+      <a href="./projects/pancreatic-cyst-synthesis.md">Full Details →</a>
     </p>
   </div>
 </div>
