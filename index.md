@@ -19,7 +19,9 @@
     </td>
   </tr>
 </table>
-<p>I'm a third-year PhD student, developing AI systems that transform complex medical imaging into actionable clinical insights. My research bridges two critical challenges in medical AI: (1) creating interpretable deep learning algorithms for analyzing cardiac Diffusion Tensor Imaging data, and (2) synthesizing high-fidelity medical imaging data to address data scarcity in rare pathologies. Before starting my Ph.D., I earned my B.S. in Computer Science from NYU Tandon School of Engineering.</p>
+<p>I'm a third-year PhD student, developing AI systems that transform complex medical imaging into actionable clinical insights. My research bridges two critical challenges in medical AI: (1) creating interpretable deep learning algorithms for analyzing cardiac Diffusion Tensor Imaging data, and (2) synthesizing high-fidelity medical imaging data to address data scarcity in rare pathologies. </p>
+
+<p>Before starting my Ph.D., I earned my B.S. in Computer Science from NYU Tandon School of Engineering.</p>
 
 <p>My mission is to democratize access to expert medical diagnosis through robust computational tools that augment physician capabilities. This vision is deeply personal—growing up with physician parents, I witnessed firsthand the challenges of providing quality healthcare in resource-constrained environments. Their dedication inspired my commitment to developing AI systems that can scale medical expertise to underserved populations worldwide.
 I approach research with technical versatility, working across the full spectrum of modern AI—from representation learning and transformers to generative models and LLM-based agents—always expanding my skillset to match the complexity of medical challenges.</p>
