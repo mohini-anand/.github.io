@@ -10,9 +10,25 @@ tags: [deep-learning, medical-imaging, cardiac-dti, unsupervised-learning]
 # Unraveling the Heart's Underlying Architecture
 
 <div class="project-hero">
-  <img src="/assets/images/project-images/fiber-clustering/clustered!!.png" alt="Overview of our pipeline">
-  <p class="caption">Automatic clustering reveals 33-62 distinct fiber populations in the heart</p>
+  <img src="../images/project-images/fiber-clustering/flow diagram.png" alt="Example of clustered cardiac fibers">
+  <p class="caption">Example of clustered cardiac fibers enabling deeper understanding of the heart's architecture</p>
 </div>
 
+### Key Innovations
+
+1. I calculated the following **Anatomically-Informed Features**
+   - Helical Angle (HA): Captures transmural fiber rotation
+   - Transmural Depth (TD): Normalizes position within heart wall
+   - Enables separation of spatially overlapping but functionally distinct fibers
+
+2. **Dual Representation Learning**
+   - **BLSTM Network**: Learns local sequential dependencies by predicting future fiber points
+   - **Transformer Autoencoder**: Captures global trajectory shapes through self-attention
+   - Fusion creates comprehensive fiber representations
+
+3. **Robust Clustering**
+   - HDBSCAN automatically determines cluster numbers
+   - Handles variable fiber densities
+   - Identifies outliers that may indicate diseased regions
 
 
