@@ -3,7 +3,7 @@
 
 <div class="ct-to-mri-teaser">
   <img src="../images/project-images/ct-to-mri-translation/ct to mri 1.png" alt="Example output from current model">
-  <p class="caption">Example output from current model (needs targeted refinement for pancreas)</p>
+  <p class="caption">Example output from current model trained for 30 epochs (needs targeted refinement for pancreas)</p>
 </div>
 
 ## Why it matters
